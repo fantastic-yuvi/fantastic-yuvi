@@ -1,14 +1,14 @@
 <!-- Your Name -->
-# John Doe
-Software Developer | Open Source Enthusiast | Lifelong Learner
+# 👋 Yuvraj Singh Gangwar 
+Software Developer | 🌟 Full Stack Developer | 📚 Lifelong Learner
 
 <!-- Your Introduction -->
-Hi there! 👋 I'm John Doe, a passionate software developer on a journey to explore the endless possibilities of code. My mission is to create software that empowers and inspires.
+Hi there! I'm Yuvraj Singh Gangwar, a passionate software developer on a journey to explore the endless possibilities of code. My mission is to create software that empowers and inspires.
 
 <!-- Your Interests -->
 ## 🔥 What I'm Into
 - 💻 Building web applications with React, Vue, and Node.js
-- 🚀 Exploring the world of artificial intelligence and machine learning
+- 🤖 Exploring the world of artificial intelligence and machine learning
 - 🌐 Contributing to open source projects that make a difference
 - 📖 Sharing knowledge through blogging and tech talks
 
@@ -27,25 +27,25 @@ Hi there! 👋 I'm John Doe, a passionate software developer on a journey to exp
 
 <!-- Your Connect -->
 ## 🌐 Connect with Me
-- [Portfolio](https://johndoe.dev)
-- [LinkedIn](https://linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
-- [Email](mailto:johndoe@email.com)
+- [🌐 Portfolio](https://johndoe.dev)
+- [📱 LinkedIn](https://linkedin.com/in/johndoe)
+- [🐦 Twitter](https://twitter.com/johndoe)
+- [✉️ Email](mailto:johndoe@email.com)
 
 <!-- Your Blog Posts -->
 ## 📝 Latest Blog Posts
-- [How to Build a Responsive Web App with CSS Grid](https://johndoe.dev/blog/css-grid-responsive-web-app)
-- [Machine Learning 101: An Introduction to ML](https://johndoe.dev/blog/intro-to-machine-learning)
+- [🌐 How to Build a Responsive Web App with CSS Grid](https://johndoe.dev/blog/css-grid-responsive-web-app)
+- [🤖 Machine Learning 101: An Introduction to ML](https://johndoe.dev/blog/intro-to-machine-learning)
 
 <!-- Your Projects -->
 ## 🚀 Featured Projects
-- [Awesome Project 1](https://github.com/johndoe/awesome-project-1)
-- [Cool Project 2](https://github.com/johndoe/cool-project-2)
+- [🚀 Awesome Project 1](https://github.com/johndoe/awesome-project-1)
+- [🆒 Cool Project 2](https://github.com/johndoe/cool-project-2)
 
 <!-- Your Contributions -->
 ## 🙌 Contributions
-- [Contribution 1](https://github.com/johndoe/contribution-1)
-- [Contribution 2](https://github.com/johndoe/contribution-2)
+- [🤝 Contribution 1](https://github.com/johndoe/contribution-1)
+- [🤝 Contribution 2](https://github.com/johndoe/contribution-2)
 
 <!-- Your Visitors -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=johndoe)
