@@ -18,12 +18,10 @@ Hi there! I'm Yuvraj Singh Gangwar, a passionate software developer on a journey
 
 <!-- Your Skills -->
 ## 💼 My Toolbox
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express, Django
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn
-- **DevOps**: Docker, Kubernetes, Jenkins
-- **Tools**: VS Code, Git, GitHub, Jira
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools**: VS Code, Git, GitHub
 
 <!-- Your Connect -->
 ## 🌐 Connect with Me
