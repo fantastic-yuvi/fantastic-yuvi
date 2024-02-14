@@ -30,37 +30,6 @@ Hi there! I'm Yuvraj Singh Gangwar, a passionate software developer on a journey
 - [🐦 Twitter](https://twitter.com/johndoe)
 - [✉️ Email](mailto:johndoe@email.com)
 
-<!-- Your Blog Posts -->
-## 📝 Latest Blog Posts
-- [🌐 How to Build a Responsive Web App with CSS Grid](https://johndoe.dev/blog/css-grid-responsive-web-app)
-- [🤖 Machine Learning 101: An Introduction to ML](https://johndoe.dev/blog/intro-to-machine-learning)
-
-<!-- Your Projects -->
-## 🚀 Featured Projects
-- [🚀 Awesome Project 1](https://github.com/johndoe/awesome-project-1)
-- [🆒 Cool Project 2](https://github.com/johndoe/cool-project-2)
-
-<!-- Your Contributions -->
-## 🙌 Contributions
-- [🤝 Contribution 1](https://github.com/johndoe/contribution-1)
-- [🤝 Contribution 2](https://github.com/johndoe/contribution-2)
-
-<!-- Your Visitors -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=johndoe)
-
-<!-- Your GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=johndoe)
-
-<!-- Your GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe)
-
-<!-- Your GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=johndoe)
-
-<!-- Your Favorite Quote -->
-## 🌟 Favorite Quote
-"Code is poetry." - Unknown
-
 <!-- Your Footer -->
 ![Profile Views](https://komarev.com/ghpvc/?username=johndoe)
 
